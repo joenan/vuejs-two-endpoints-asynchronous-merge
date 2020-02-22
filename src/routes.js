@@ -1,13 +1,9 @@
- 
+ import Comments from './components/comments/index';
 
 const routes = [
-    {
-        path: "/",
-        alias: "/index",
-        name: "comments",
-        component: () => import("./components/comments/index")
-      },
-    
+    { path: '/', component: Comments },
+   
 ];
+
 
 export default routes;

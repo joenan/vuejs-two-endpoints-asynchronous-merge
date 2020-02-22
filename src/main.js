@@ -17,7 +17,7 @@ Vue.component('app-header', header);
 Vue.component('app-sidebar', sidebar);
 Vue.component('app-comments', comments);
 
-const router = new VueRouter({mode: 'history', routes});
+const router = new VueRouter({routes});
 
 new Vue({
   router,
