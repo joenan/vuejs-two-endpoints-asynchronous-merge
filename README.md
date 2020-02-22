@@ -1,5 +1,3 @@
-# axel-springer-vuejs
-
 # Demo
 This project was created using VueJS 2,JavaScript, ES5/6, HTML5, CSS3 and Bootstrap 4
 
